@@ -9,7 +9,7 @@ const data = {
       'Forward-thinking Full Stack Engineer with background as a Computer Science Graduate and System Engineer with 2 years experience. Accomplished projects troubleshooting and resolving issues by debugging programs and managing tasks. Increase proficiencies and offering expertise in cross platform application development',
     about2:
       'Expanding my limit to enhance and explore my knowledge in the business world. Understanding business goals and combining logic with aesthetics to create beautiful, consistent and functional design solutions',
-    website: 'https://ak-portfolio.vercel.app/',
+    website: 'https://ankit-webdev.vercel.app/',
     image: 'image/profilePic.jpg',
     resumedownload:
       'https://drive.google.com/file/d/1g4Ui8Tkg7AOfBnFfKZzz4MJN4NLDXgd7/view?usp=drive_link',

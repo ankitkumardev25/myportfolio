@@ -21,7 +21,7 @@ function Header({ data }) {
             />
           </span>
           <br className="break" />
-          Based in <span className="span-text">India</span>
+          Based in <span className="span-text">Bengaluru, India</span>
         </h1>
         <NavLink to="/contact">
           <Button text="Let's Chat" />
